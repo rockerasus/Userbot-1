@@ -135,8 +135,8 @@ async def amireallyalive(alive):
     if not alive.text[0].isalpha() and alive.text[0] not in ("/", "#", "@", "!"):
         await alive.edit(
            "`"
-           "Guruji hum abhi zinda hai ;) \n\n"
-            f"Owned by pero @Spyderzzz sar \n"
+           "Meh alive now gib moni for work😬 \n\n"
+            f"Owned by noob @anonyCrew sur \n"
             "`"
             )
 
