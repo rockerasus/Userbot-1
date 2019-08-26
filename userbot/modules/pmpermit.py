@@ -21,7 +21,8 @@ from userbot.events import register
 UNAPPROVED_MSG = ("`Welcome, You are a wonderful person with a wonderful view of life.`\n\n"
                   "`Your companionship is always an opportunity But Sed This line is not for you.`"
                   "`So just tell why you are here ?`\n\n""
-                  "`As far as I know, he doesn't usually approve retards though.`")
+                  "`Your message has been received will be responded when I'm free don't sit here whole day coz there is lots of pending message so🙂`"
+                  "`if uh have urgent goto @zonerschat or google it.`,)
 # =================================================================
 
 
@@ -204,7 +205,7 @@ async def approvepm(apprvpm):
             )
 
 
-@register(outgoing=True, pattern="^.disapprove$")
+@register(outgoing=True, pattern="^.dis$")
 async def disapprovepm(disapprvpm):
     if not disapprvpm.text[0].isalpha() and disapprvpm.text[0] not in ("/", "#", "@", "!"):
         try:
@@ -225,7 +226,7 @@ async def disapprovepm(disapprvpm):
             name0 = str(aname.first_name)
 
         await disapprvpm.edit(
-            f"[{name0}](tg://user?id={disapprvpm.chat_id}) `nubfuk disapproved to PM!`"
+            f"[{name0}](tg://user?id={disapprvpm.chat_id}) `Nub Nimba disapproved to PM KEK!`"
             )
 
         if BOTLOG:
@@ -241,7 +242,7 @@ async def blockpm(block):
     """ For .block command, block people from PMing you! """
     if not block.text[0].isalpha() and block.text[0] not in ("/", "#", "@", "!"):
 
-        await block.edit("`You've been blocked!. Now cry in corner`")
+        await block.edit("`You've been blocked Boi!. Now cry in corner`")
 
         if block.reply_to_msg_id:
             reply = await block.get_reply_message()
@@ -276,7 +277,7 @@ async def unblockpm(unblock):
     if not unblock.text[0].isalpha() and unblock.text[0] \
             not in ("/", "#", "@", "!") and unblock.reply_to_msg_id:
 
-        await unblock.edit("`You have been unblocked.OK RETARD`")
+        await unblock.edit("`You have been unblocked.OK NOW GIB MONI`")
 
         if unblock.reply_to_msg_id:
             reply = await unblock.get_reply_message()
