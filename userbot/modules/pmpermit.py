@@ -18,10 +18,9 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("`Bleep blop! This is a bot. Don't fret.`\n\n"
-                  "`My master hasn't approved you to PM.`"
-                  "`Please wait for my master to look in, he mostly approves PMs.`\n\n"
-                  "`Until then, please don't spam my PM, you'll get blocked and reported!`\n"
+UNAPPROVED_MSG = ("`Welcome, You are a wonderful person with a wonderful view of life.`\n\n"
+                  "`Your companionship is always an opportunity But Sed This line is not for you.`"
+                  "`So just tell why you are here ?`\n\n""
                   "`As far as I know, he doesn't usually approve retards though.`")
 # =================================================================
 
