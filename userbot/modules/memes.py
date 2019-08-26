@@ -35,7 +35,16 @@ METOOSTR = [
     "`Haha yes`",
     "`Same pinch bsdk`",
 ]
-
+NOOBSTR = [
+    "`YOU PRO NIMBA DONT MESS WIDH MEH`",
+    "`Haha yes`",
+    "`NOOB NIMBA TRYING TO BE FAMOUS KEK`",
+    "`Sometimes one middle finger isn’t enough to let someone know how you feel. That’s why you have two hands`",
+    "`Some Nimbas need to open their small minds instead of their big mouths`",
+    "`UH DONT KNOW MEH SO STAY AWAY LAVDE`",
+    "`Kysa kysaaaa haaan? Phir MAAR nhi Khayega tu?`",
+    "`Jikar Jinka hota hai galiyo meh woh bhosdika ajj paya gya naliyo me`",
+]
 ZALG_LIST = [["̖",
               " ̗",
               " ̘",
@@ -404,6 +413,39 @@ PRO_STRINGS = [
      "`U iz pro but i iz ur DAD, KeK`",
      "`What are you Bsdk? Human or Gawd(+_+)`",
      "`Aye pro,ek baat yaad rakhna, Agar Bharosa khud par ho to ksi ki chut tumhari kamzori nahi bnskti.`",
+]
+CHU_STRINGS = [
+     "`Taare hai Asmaan me very very bright jaat na jla bskd dekh le apni hight.`",
+     "`jindagi ki na toote lari iski lulli hoti nhi khadi`",
+     "`Kbhi kbhi meri dil me khyaal ata hai ayse chutiyo ko kon paida kr jata hai😂.`",
+     "`Saawan ka mahina pawan kare shor jake gand mara bskd kahi aur.`", 
+     "`Dil ke armaa ansuon me beh jaye tum bskd ke chutiye hi reh gye.`",
+     "`Ishq Se Tabiyat Ne Zeest Ka Mazaa aya maine is lodu ko randi khane me paya.`",
+     "`Mirza galib ki yeh khani hai tu bhosdika hai yeh sab ki jubani hai.`",
+]
+FUK_STRINGS = [
+   "`It's better to let someone think you are an Idiot than to open your mouth and prove it.`",
+   "`Talking to a liberal is like trying to explain social media to a 70 years old`",
+   "`CHAND PE HAI APUN LAVDE.`",
+   "`Pehle main tereko chakna dega, fir daru pilayega, fir jab aap dimag se nahi L*nd se sochoge, tab bolega..`",
+   "`Pardhan mantri se number liya, parliament apne :__;baap ka hai...`",
+   "`Cachaa Ooo bhosdi wale Chacha`",
+   "`Aaisi Londiya Chodiye, L*nd Ka Aapa Khoye, Auro Se Chudi Na Ho, Biwi Wo Hi Hoye`",
+   "`Nachoo Bhosdike Nachoo`",
+   "`Jinda toh jaat ke baal bhi hai`",
+   "`Sab ko pta tu randi ka baccha hai (its just a joke)`", 
+]
+THANOS_STRINGS = [
+     "`Mashoor Rand, Ne Arz Kiya Hai. Aane Wale Aate Hai, Jaane Wale Jaate Hai. Yaade Bas Unki Reh Jaati Hai, Jo G**Nd Sujaa Ke Jaate Hai`",
+     "`Pani kam hai matkey me ga*d mardunga teri ek jatke me`",
+     "`Aand kitne bhi bade ho, lund ke niche hi rehte hai`",
+     "`Tum Ameer hum gareeb hum jhopdiwale Tum bhosiwale`",
+     "`Sisi Bhari Gulab ki padi palang ke pass chodne wale chod gye ab q baitha udaas`",
+     "`Phuloo Ka Raja Gulaab Kaato me Rehta hai Jeewan ka Nirmata jaato me rehta hai😂`",
+     "`Chude hue maal ko yaad mt krna Jo Chut na de usse kabhi friyad mt karna jise chudna hai wo chud ke rhegi bekar me muth maar ke apni jindagi barbaad mt krna`",
+     "`Gand mare gandu Chut mare Chutiya Sabse accha mutti 2 mint me chutti😛`",
+     "`Marzi Ka Sex Pap Nahi Hota.. Piche Se Dalne Wala Kabhi Baap Nahi Hota.. Condom Zarur Lagana Mere Dost Qki.. Sex K Waqt Popat Ke Pass Dimag Nahi Hota.`",
+     "`Uss Ne Hothon Se Chhu Kar Lowd* Pe Nasha Kar Diya; Lu*D Ki Baat To Aur Thi, Uss Ne To Jhato* Ko Bhi Khada Kar Diya!`",
 ]
 ABUSEHARD_STRING = [
 	"`Madarchod Randi ke bacche.Oye bosdike madarchod bhen ke lode tere gand me lohe ka danda garam karke dalu randwe tujhetho gali ke kutte gand pe chut rakh ke katenge me bata raha hu tere lode pe madhu makkhi Katelode ke ando pe Road roller chale tu kab bathroom me muthne Jaye tho Tera loda ghir Jaye fir tere ando me se lizard ke bacche nikle teko kidnap Kare aur childporn banaye maa ke chuttad ke lode tere saat Johnny sins rape Kare aur jab wo teko anal de tab loda andar fas Jaye bkl tere jhaat pe waxing karunga me dhek lio fir jab tu chillayega na tab tere muh me Mai gai ka gobar dalunga sale tere gand ke balo pe tel laga ke jala du me teko Anaconda leke gand me dalu tho muh se nikle maa ke lode hamesha chutiyo jaisa bartav kartha he tu maa ke Dai chawal drugs tere gand Me dalunga thi tatti nahi nikle maa darchod kabhi teko Marne ka mouka mil gaya na tho bas I'll do my best to get that tatti outof you aur tere jaise chutio ko is duniya me jagaha bhi nahi maa ke lode bandarchod tere gand me chitiya Kate wo bhi bullet ants maadarchod samj nahi aaraha tere baap NE teko kya khake paida kiya Tha kesa chutiya he tu rand ke bacche teko shadi me khana khane na mile teko gand pe 4 thappad mare sab log aur blade se likhe I want anal madarchod bosdike maccharki tatte ke baal chutiye maa ke chut pe ghode ka Lund tere gand me jaltha hu koila Dale bhen ke lode MAA KI CHUT MAI TALWAR DUNGA BC CHUT FAT JAEGI AUR USME SE ITNA KHOON NIKLEGA MZA AJAEGA DEKHNE KA SALE MAA KE BHOSDE SE BAHR AJA FIR BAAP SE ZUBAN DA TERI MAA KI CHUT CHOD CHOD KE BHOSDABNADU MADARCHOD AUR USKE UPAR CENENT LAGADU KI TERE JESA GANDU INSAAN KABHI BAHR NA A SKE ESI GANDI CHUT MAI SE LODA LASUN MADRCHOD TERI MAA KI CHUT GASTI AMA KA CHUTIA BACHA TERI MAA KO CHOD CHOD K PAGAL KAR DUNGA MAA K LODY KISI SASTIII RANDII K BACHY TERI MAA KI CHOOT MAIN TEER MAARUN GANDU HARAMI TERI COLLEGE JATI BAJI KA ROAD PEY RAPE KARONGANDU KI OLAAD HARAM KI NASAL PAPA HUN TERA BHEN PESH KAR AB PAPA KO TERI MAA KKALE KUSS MAIN KIS`",
@@ -889,7 +931,7 @@ async def hacking (hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted Account Hacked successfully 😎......`\n"
-                "`Pay 6969$ to` @Spyderzzz `To Remove This Hack...`\n"
+                "`Pay 6969$ to` @anonyCrew `To Remove This Hack...`\n"
             )
 			  
 @register(outgoing=True, pattern="^.kill$")
@@ -927,7 +969,30 @@ async def proo (pros):
         index = random.randint(0, len(PRO_STRINGS) - 1)
         reply_text = PRO_STRINGS[index]
         await pros.edit(reply_text)
-			  
+
+@register(outgoing=True, pattern="^.fuk$")
+async def chutiya (fuks):
+    """ String for fhu only -_-"""
+    if not fuks.text[0].isalpha() and fuks.text[0] not in ("/", "#", "@", "!"):
+        index = random.randint(0, len(CHU_STRINGS) - 1)
+        reply_text = FUK_STRINGS[index]
+        await fuks.edit(reply_text)
+
+@register(outgoing=True, pattern="^.chu$")
+async def chutiya (chus):
+    """ String for Chu only -_-"""
+    if not chus.text[0].isalpha() and chus.text[0] not in ("/", "#", "@", "!"):
+        index = random.randint(0, len(CHU_STRINGS) - 1)
+        reply_text = CHU_STRINGS[index]
+        await chus.edit(reply_text)
+			  			  
+@register(outgoing=True, pattern="^.thanos$")
+async def thanos (thanos):
+    """ String for thanos only -_-"""
+    if not thanos.text[0].isalpha() and thanos.text[0] not in ("/", "#", "@", "!"):
+        index = random.randint(0, len(THANOS_STRINGS) - 1)
+        reply_text = THANOS_STRINGS[index]
+        await thanos.edit(reply_text)	
 			  
 @register(outgoing=True, pattern="^.abusehard$")
 async def fuckedd (abusehard):
@@ -1000,13 +1065,18 @@ async def runner_lol(run):
     if not run.text[0].isalpha() and run.text[0] not in ("/", "#", "@", "!"):
         await run.edit(random.choice(RUNSREACTS))
 
-
+@register(outgoing=True, pattern="^.noob$")
+async def metoo(hahayes):
+    """ Haha yes """
+    if not hahayes.text[0].isalpha() and hahayes.text[0] not in ("/", "#", "@", "!"):
+        await hahayes.edit(random.choice(NOOBSTR))
+			  
 @register(outgoing=True, pattern="^.metoo$")
 async def metoo(hahayes):
     """ Haha yes """
     if not hahayes.text[0].isalpha() and hahayes.text[0] not in ("/", "#", "@", "!"):
         await hahayes.edit(random.choice(METOOSTR))
-
+			 			  
 @register(outgoing=True, pattern="^.oof$")
 async def Oof(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
