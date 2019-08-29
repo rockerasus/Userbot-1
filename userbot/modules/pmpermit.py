@@ -225,14 +225,14 @@ async def disapprovepm(disapprvpm):
             name0 = str(aname.first_name)
 
         await disapprvpm.edit(
-            f"[{name0}](tg://user?id={disapprvpm.chat_id}) `Nub Nimba disapproved to PM KEK!`"
+            f"[{name0}](tg://user?id={disapprvpm.chat_id}) `chu nubfek disapproved to PM KEK!`"
             )
 
         if BOTLOG:
             await disapprvpm.client.send_message(
                 BOTLOG_CHATID,
                 f"[{name0}](tg://user?id={disapprvpm.chat_id})"
-                " was disapproved to PM you.",
+                " bsdka disapproved to PM you.",
             )
 
 
@@ -288,7 +288,7 @@ async def unblockpm(unblock):
             await unblock.client.send_message(
                 BOTLOG_CHATID,
                 f"[{name0}](tg://user?id={replied_user.user.id})"
-                " was unblocc'd!.",
+                " was unblock'd!.",
             )
 
 CMD_HELP.update({
