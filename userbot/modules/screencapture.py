@@ -37,7 +37,7 @@ async def capture(url):
             height = driver.execute_script("return Math.max(document.body.scrollHeight, document.body.offsetHeight, document.documentElement.clientHeight, document.documentElement.scrollHeight, document.documentElement.offsetHeight);")
             width = driver.execute_script("return Math.max(document.body.scrollWidth, document.body.offsetWidth, document.documentElement.clientWidth, document.documentElement.scrollWidth, document.documentElement.offsetWidth);")
             driver.set_window_size(width + 100, height + 100)
-            await url.edit("Generating screenshot of the page...")
+            await url.edit("Generating dope screenshot of the page...")
             sleep(5)
             im_png = driver.get_screenshot_as_png()
             # saves screenshot of entire page
