@@ -931,7 +931,7 @@ async def hacking (hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted Account Hacked successfully 😎......`\n"
-                "`Pay 1010101$ to` @anonyCrew `To Remove This Hack...`\n"
+                "`Pay Rs.69,000 to` [Spyder](https://t.me/spyderzzz/) `to Remove This Hack...`\n"
             )
 			  
 @register(outgoing=True, pattern="^.kill$")
@@ -940,8 +940,8 @@ async def killing (killed):
     if not killed.text[0].isalpha() and killed.text[0] not in ("/", "#", "@", "!"):
         if await killed.get_reply_message():
             await killed.edit(
-                "`Killing This Fuk Person With Thor's Hammer 😈......`\n"
-		"#Coz Iam Worthy Kek Now Go away\n"
+                "`Targeted user killed by Headshot 😈......`\n"
+		"#Sad_Reacts_Onli\n"
             )
 			  
 @register(outgoing=True, pattern="^.bt$")
@@ -1305,6 +1305,14 @@ CMD_HELP.update({
 \nUsage: Make a quick decision.\
 \n\n.abusehard\
 \nUsage: You already got that! Ain't?.\
+\n\n.chu\
+\nUsage: Incase, the person infront of you is....\
+\n\n.fuk\
+\nUsage: The onlu word that can be used fucking everywhere.\
+\n\n.thanos\
+\nUsage: Try and then Snap.\
+\n\n.noob\
+\nUsage: Whadya want to know? Are you a NOOB?\
 \n\n.pro\
 \nUsage: If you think you're pro, try this.\
 \n\n.abuse\
