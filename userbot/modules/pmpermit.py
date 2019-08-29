@@ -187,7 +187,7 @@ async def approvepm(apprvpm):
             return
 
         await apprvpm.edit(
-            f"[{name0}](tg://user?id={uid}) ` bsdka approved to PM!`"
+            f"[{name0}](tg://user?id={uid}) ` Nub Nimba approved to PM KEK!`"
         )
 
         async for message in apprvpm.client.iter_messages(apprvpm.chat_id, 
