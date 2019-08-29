@@ -183,11 +183,11 @@ async def approvepm(apprvpm):
         try:
             approve(uid)
         except IntegrityError:
-            await apprvpm.edit("`This boi may already be approved.`")
+            await apprvpm.edit("`This nub may already be approved.`")
             return
 
         await apprvpm.edit(
-            f"[{name0}](tg://user?id={uid}) ` Nub Nimba approved to PM KEK!`"
+            f"[{name0}](tg://user?id={uid}) ` nibba approved to PM KEK!`"
         )
 
         async for message in apprvpm.client.iter_messages(apprvpm.chat_id, 
@@ -276,7 +276,7 @@ async def unblockpm(unblock):
     if not unblock.text[0].isalpha() and unblock.text[0] \
             not in ("/", "#", "@", "!") and unblock.reply_to_msg_id:
 
-        await unblock.edit("`You have been unblocked.OK NOW GIB MONI`")
+        await unblock.edit("`You have been unblocked.Thank my master's forgiveness`")
 
         if unblock.reply_to_msg_id:
             reply = await unblock.get_reply_message()
