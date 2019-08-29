@@ -110,7 +110,7 @@ async def make_qr(makeqr):
         )
         os.remove("img_file.webp")
         duration = (datetime.now() - start).seconds
-        await makeqr.edit("Created QRCode in {} seconds".format(duration))
+        await makeqr.edit("Hehe ! Created QRCode in {} seconds".format(duration))
         await asyncio.sleep(5)
         await makeqr.delete()
 
