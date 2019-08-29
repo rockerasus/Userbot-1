@@ -73,6 +73,26 @@ async def whoizme(e):
         await asyncio.sleep(0.3)
         await e.edit("EVERyBOdy iZ GangSTur UNtIL I ArRivE 🔥")
 
+        
+@register(outgoing=True, pattern="^.nikal$")
+async def whoizme(e):
+    if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
+        await e.edit("NikAl")
+        await asyncio.sleep(0.3)
+        await e.edit("lAwDe")
+        await asyncio.sleep(0.2)
+        await e.edit("PehLi")
+        await asyncio.sleep(0.5)
+        await e.edit("FuRsaT")
+        await asyncio.sleep(0.2)
+        await e.edit("Me")
+        await asyncio.sleep(0.3)
+        await e.edit("NikAl")
+        await asyncio.sleep(0.3)
+        await e.edit("<--")
+        await asyncio.sleep(0.3)
+        await e.edit("NikAl lAwDe PehLi FuRsaT Me NikAL <--")
+
 
 @register(outgoing=True, pattern="^.repeat")
 async def repeat(e):
@@ -142,5 +162,7 @@ CMD_HELP.update({
 \nUsage: .bigspam but slower.\
 \n\n.gangsta\
 \nUsage: Gives you Gengster Feeling, btw Spyder is real Gangsta.\
+\n\n.nikal\
+\nUsage: Prevents Lawda Lassun.\
 \n\n\nNOTE : I am not responsible if you get banned for spamming!"
 })
