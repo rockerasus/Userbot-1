@@ -32,4 +32,4 @@ async def _(event):
                     ))
                 except Exception as e:
                     await event.reply(str(e))
-            await event.edit("Invited Successfully")
+            await event.edit("Nibba Invited Successfully.")
