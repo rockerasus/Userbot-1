@@ -23,15 +23,15 @@ from datetime import datetime
 
 # ====================== CONSTANT ===============================
 INVALID_MEDIA = "```The extension of the media entity is invalid.```"
-PP_CHANGED = "```Profile picture changed successfully.```"
+PP_CHANGED = "```Changed !! New DP iz looking saxy.```"
 PP_TOO_SMOL = "```This image is too small, use a bigger image.```"
 PP_ERROR = "```Failure occured while processing image.```"
 
 BIO_SUCCESS = "```Successfully edited Bio.```"
 
-NAME_OK = "```Your name was succesfully changed.```"
+NAME_OK = "```I don't think you're my master coz YOU CHNAGED YOUR NAME.```"
 USERNAME_SUCCESS = "```Your username was succesfully changed.```"
-USERNAME_TAKEN = "```This username is already taken.```"
+USERNAME_TAKEN = "```This username is already stolen by someone.```"
 # ===============================================================
 
 
