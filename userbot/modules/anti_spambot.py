@@ -134,7 +134,7 @@ async def welcome_mute(welcm):
                         await welcm.reply(
                             "@admins\n"
                             "`ANTI SPAMBOT DETECTOR!\n"
-                            "THIS USER MATCHES MY ALGORITHMS AS A SPAMBOT!`\n"
+                            "THIS USER MATCHES MY ALGORITHMS AS A FUCKING SPAMBOT!`\n"
                             f"REASON: {reason}")
                 else:
                     await welcm.reply(
