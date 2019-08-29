@@ -88,7 +88,7 @@ async def upstream(ups):
                 remove("output.txt")
             else:
                 await ups.edit(changelog_str)
-            await ups.respond("`do \".update now\" to update\nDon't if using Heroku`")
+            await ups.respond("`do \".update now\" to update\nDon't do if you're using HEROKU\nJust see changelog and if you found any new change then Deploy Branch manually via Heroku.`")
             return
 
         await ups.edit('`New update found, updating...`')
