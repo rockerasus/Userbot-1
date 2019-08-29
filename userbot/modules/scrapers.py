@@ -83,7 +83,7 @@ async def carbon_api(e):
    await e.edit("`Processing..\n75%`")
    # Waiting for downloading
    sleep(2.5)
-   await e.edit("`Bss hogya...\n100%`")
+   await e.edit("`Done Dana Done...\n100%`")
    file = './carbon.png'
    await e.edit("`Uploading..`")
    await e.client.send_file(
