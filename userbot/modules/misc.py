@@ -81,7 +81,7 @@ async def bot_support(wannahelp):
 @register(outgoing=True, pattern="^.creator$")
 async def creator(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await e.edit("[Dev](https://t.me/anonyCrew)")
+        await e.edit("[Spyder #DerpGang](https://t.me/Spyderzzz/)")
 
 @register(outgoing=True, pattern="^.readme$")
 async def reedme(e):
