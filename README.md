@@ -1,6 +1,6 @@
-# UserBot
+# PaperPlane Extended UserBot
 
-### Installing
+### Installing.py xD
 
 #### The easiest way to deploy this lit bad boy !!
 
