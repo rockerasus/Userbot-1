@@ -41,9 +41,9 @@ NOOBSTR = [
     "`NOOB NIMBA TRYING TO BE FAMOUS KEK`",
     "`Sometimes one middle finger isn’t enough to let someone know how you feel. That’s why you have two hands`",
     "`Some Nimbas need to open their small minds instead of their big mouths`",
-    "`UH DONT KNOW MEH SO STAY AWAY LAVDE`",
+    "`UH DONT KNOW MEH SO STAY AWAY LAWDE`",
     "`Kysa kysaaaa haaan? Phir MAAR nhi Khayega tu?`",
-    "`Jikar Jinka hota hai galiyo meh woh bhosdika ajj paya gya naliyo me`",
+    "`Zikr Jinka hota hai galiyo meh woh bhosdika ajj paya gya naliyo me`",
 ]
 ZALG_LIST = [["̖",
               " ̗",
@@ -426,7 +426,7 @@ CHU_STRINGS = [
 FUK_STRINGS = [
    "`It's better to let someone think you are an Idiot than to open your mouth and prove it.`",
    "`Talking to a liberal is like trying to explain social media to a 70 years old`",
-   "`CHAND PE HAI APUN LAVDE.`",
+   "`CHAND PE HAI APUN LAWDE.`",
    "`Pehle main tereko chakna dega, fir daru pilayega, fir jab aap dimag se nahi L*nd se sochoge, tab bolega..`",
    "`Pardhan mantri se number liya, parliament apne :__;baap ka hai...`",
    "`Cachaa Ooo bhosdi wale Chacha`",
