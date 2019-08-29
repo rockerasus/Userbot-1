@@ -23,7 +23,7 @@ async def gen_chlog(repo, diff):
     return ch_log
 
 async def is_off_br(br):
-    off_br = ['sql-extended', 'sql-dirty']
+    off_br = ['master', 'staging', 'redis']
     for k in off_br:
         if k == br:
             return 1
@@ -36,7 +36,7 @@ async def upstream(ups):
         "/", "#", "@", "!"):
         await ups.edit("`Checking for updates, please wait....`")
         conf = ups.pattern_match.group(1)
-        off_repo = 'https://github.com/spyderzz/UserBot.git'
+        off_repo = 'https://github.com/Devp73/UserBot-1.git'
 
         try:
             txt = "`Oops.. Updater cannot continue due to some problems occured`\n\n**LOGTRACE:**\n"
